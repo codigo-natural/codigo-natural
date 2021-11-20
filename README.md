@@ -1,16 +1,14 @@
-### Hi there 👋
+**Hola** 👋
 
-<!--
-**codigo-natural/codigo-natural** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un joven Colombiano con intereses en temas tecnologicos, busco cada dia aprender hacerca
+de temas actualizados sobre tecnologia, en este repositorio encontraran proyectos personales que 
+hacen parte de mi portafolio como desarollador Frontend.
 
-Here are some ideas to get you started:
+# HABILIDADES
+- HTML5
+- CSS3
+- JAVASCRIPT
+- PYTHON
+- GIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+para mas contenido puedes visitar mi [instagram](https://www.instagram.com/ivan__camilo/)
