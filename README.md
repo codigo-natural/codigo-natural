@@ -11,4 +11,3 @@ hacen parte de mi portafolio como desarollador Frontend.
 - PYTHON
 - GIT
 
-para mas contenido puedes visitar mi [instagram](https://www.instagram.com/ivan__camilo/)
